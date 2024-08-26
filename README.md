@@ -36,8 +36,8 @@ What do you get as output? Edit this README file by copy-pasting or screenshotti
 
 Add your answers here:
 
-./welcome Tracy --> first character is still T, 5 characters
-./welcome 'Tracy Tran' --> first character is still T, 10 characters
-./welcome José --> first character is J, 5 characters including the accent mark
-./welcome Ülo --> first character is 'unknown', 4 characters long
-./welcome 李 --> first character is 'unknown', 3 characters long
+- ./welcome Tracy --> first character is still T, 5 characters
+- ./welcome 'Tracy Tran' --> first character is still T, 10 characters
+- ./welcome José --> first character is J, 5 characters including the accent mark
+- ./welcome Ülo --> first character is 'unknown', 4 characters long
+- ./welcome 李 --> first character is 'unknown', 3 characters long
